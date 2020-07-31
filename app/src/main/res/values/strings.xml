@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Spiice App</string>
+    <string name="button_text"> Discover the platform</string>
+    <string name="spice_text"> You have an account? Log-in</string>
+    <string name="register_text"> You "don't" have an account? Register </string>
+    <string name="heading"> Spiice</string>
+    <string name="email_hint"> Email</string>
+    <string name="firstName"> First Name </string>
+    <string name="lastName"> Last Name</string>
+    <string name="password"> Password</string>
+    <string name="sign_up"> Sign-up</string>
+    <string name="sign_in"> Sign-in</string>
+    <string name="planet_text">  Find projects from companies everywhere in the world</string>
+    <string name="money_text"> Make money while working on awesome projects </string>
+    <string name="chat_text"> Chat with other freelancers and develop your network </string>
+    <string name="work_text"> Work hard and level up!</string>
+    <string name="progress_text"> Enjoy your progress!</string>
+    <string name="colorOnBoardingInactive"> #0a385a</string>
+
+    //Navigation bar menu item titles
+    <string name="home_icon"> Feed</string>
+    <string name="search_icon"> Search</string>
+    <string name="message_icon"> Messages </string>
+    <string name="profile_icon"> Profile</string>
+    <string name="bottom_nav"> Bottom Navigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
